@@ -18,7 +18,7 @@ print(3607 * 34227)
 
 ###############################################################################
 #
-# TODO: 1.
+# DONE
 #   (Yes, that means for YOU to DO things per these instructions:)
 #
 #   Run this module by right clicking anywhere in this window and selecting
@@ -33,7 +33,7 @@ print(3607 * 34227)
 
 ###############################################################################
 #
-# TODO: 2.
+# DONE
 #   Notice the small horizontal BLUE bars on the scrollbar-like thing
 #   on the right.  Each blue bar indicates a thing TO-DO in this module.
 #
