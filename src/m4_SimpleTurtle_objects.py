@@ -29,7 +29,7 @@ import rosegraphics as rg
 
 ###############################################################################
 #
-# Done 2.
+# Done
 #   Allow this module to use the  rosegraphics.py  module by marking the
 #     src
 #   folder in this project as a "Sources Root", as follows:
@@ -160,7 +160,7 @@ jack.forward(20)
 
 ###############################################################################
 #
-# TODO: 6.
+# DONE
 #   Run one more time to be sure that all is still OK.
 #   Ensure that no blue bars on the scrollbar-thing to the right remain.
 #
