@@ -1,5 +1,6 @@
 print('Hello, World')
-
+print('it was a dark and stormy night...')
+print(3607 * 34227)
 ###############################################################################
 #
 #   This line is a COMMENT -- a note to human readers of this file.
