@@ -38,3 +38,21 @@ Authors: David Mutchler, Dave Fisher, Vibha Alangar, Amanda Stouder,
 #   As always, COMMIT-and-PUSH when you are done with this module.
 #
 ###############################################################################
+import rosegraphics as rg
+
+window = rg.TurtleWindow()
+
+blueturtle = rg.SimpleTurtle('turtle')
+blueturtle.pen = rg.Pen('blue', 30)
+blueturtle.forward(200)
+blueturtle.pen_up()
+trap = rg.Point(100, -40)
+blueturtle.go_to(trap)
+blueturtle.pen_down()
+blueturtle.pen = rg.Pen('green', 10)
+blueturtle.backward(150)
+
+
+
+window.close_on_mouse_click()
+
